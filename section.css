@@ -1,0 +1,30 @@
+*,
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #003C93;
+}
+ul{
+    list-style: none;
+}
+main{
+    margin: 1rem;
+    display: grid;
+    grid-gap: 1rem;
+
+
+}
+.right{
+    background-color: rgb(200, 216, 243);
+    padding: 1.5rem;
+}
+.Resume{
+    line-height: 3;
+}
+.resume ul{
+    margin: 2rem 0;
+    color: white;
+}
